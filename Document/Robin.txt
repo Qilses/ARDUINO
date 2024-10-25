@@ -1,0 +1,8 @@
+Nya saker med CPP
+    
+    enum är förkortad för "enumerations", Vilket är en "int const". Det andvänds för att ge flera saker ett värde.
+    De ska vara en lät och mindre compliserad sätt att ge saker ett värde. Så istället för att göra flera intergraler så kan du göra en enum
+          I vårat fall så andvädner vi den för att visa vilket hål hisen ska.
+
+    Det finns en grej som heter "std ::" i CPP vilket betyder "standard namnplats", de deklarerar att detta är en funktion
+    
